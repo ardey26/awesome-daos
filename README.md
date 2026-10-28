@@ -30,6 +30,7 @@
 - **[DAO Handbook](https://daohandbook.org/)** - A comprehensive guide on how DAOs work and how to participate.
 - **[DAOstack Blog](https://medium.com/daostack)** - Articles and insights about DAOs, governance, and decentralized decision-making.
 - **[DeepDAO](https://deepdao.io/)** - A platform providing analytics and data insights about various DAOs.
+- **[AlphaGrowth DAO Treasuries](https://alphagrowth.io/dao-treasuries/)** - Treasury value, 24h change, top holdings and main chain for 200+ DAOs, with a free CSV export and API.
 
 ## DAO Platforms
 
